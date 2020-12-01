@@ -1,0 +1,4 @@
+﻿namespace CoolGoal.Util.Enum
+{
+
+}
